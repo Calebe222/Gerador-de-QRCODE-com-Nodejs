@@ -24,11 +24,11 @@ O objetivo é facilitar a geração rápida e prática de QR Codes para links de
 - **Variáveis de ambiente (.env)**
 - **Scripts personalizados no npm**
 
+## 📂 Estrutura do Projeto
+
 - ├── src
 │ ├── index.js # Arquivo principal
 │ ├── modules/ # Módulos reutilizáveis
 ├── .env # Configurações de ambiente
 ├── package.json # Dependências e scripts
 └── README.md # Documentação do projeto
-
-## 📂 Estrutura do Projeto
